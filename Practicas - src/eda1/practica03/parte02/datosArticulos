@@ -1,0 +1,17 @@
+%Las lineas que comienzan con el caracter % se consideran comentarios
+%En cada linea de este archivo se especifica el nombre del articulo y, a continuacion,
+%el nombre del archivo que contiene el texto del mismo
+%idArticulo nombreArchivo
+
+Titulo01_01 articulo01
+Titulo01_02 articulo02
+Titulo03_01 articulo03
+Titulo01_04 articulo04
+Titulo02_02 articulo05
+Titulo02_03 articulo06
+Titulo02_01 articulo07
+Titulo03_02 articulo08
+Titulo03_04 articulo09
+Titulo01_03 articulo10
+Titulo03_03 articulo11
+Titulo02_04 articulo12

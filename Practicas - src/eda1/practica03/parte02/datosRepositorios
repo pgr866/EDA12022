@@ -1,0 +1,25 @@
+%Las lineas que comienzan con el caracter % se consideran comentarios
+%En cada linea de este archivo se especifica:
+%@NombreRepositorio
+%Los nombres de repositorio siempre van precedidos del simbolo @ (hay que omitirlo)
+%Y, a continuacion...
+%(1) el titulo del articulo
+%(2) la lista de autores
+%
+@Repositorio01
+Titulo01_01 Juan Macarena Pedra
+Titulo01_02 Alberto Manuela
+Titulo01_03 Manuela 
+Titulo01_04 Macarena Juan Pedra
+
+@Repositorio02
+Titulo02_01 Alberto Alejandro Pedra
+Titulo02_02 Alejandro Manuela
+Titulo02_03 Manuela 
+Titulo02_04 Macarena Alejandro Pedra
+
+@Repositorio03
+Titulo03_01 Juan Macarena Pedra
+Titulo03_02 Alberto Manuela
+Titulo03_03 Manuela 
+Titulo03_04 Macarena Juan Pedra
